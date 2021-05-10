@@ -1,1 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica;
+}
 
+#title{
+  font-size: 100px
+  font-weight: bold;
+  color: khaki;
+  self-align: center;
+  background-image: url("justatraveler333.github.io/image1.webp");
+}
