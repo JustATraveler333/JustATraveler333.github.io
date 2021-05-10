@@ -8,14 +8,16 @@
   font-size: 100px;
   font-weight: bold;
   color: khaki;
-  self-align: center;
   background-image: url("image1.webp");
+  margin: 20px 0 20px 0;
+  padding: 5px;
 }
 
 h2{
   font-size: 32px;
   font-weight: bold;
   color: white;
+  margin: 7px;
 }
 
 #brushes{
@@ -28,6 +30,10 @@ h2{
 
 #paint{
   background-color: skyblue;
+}
+
+figure{
+  margin: 5px;
 }
 
 strong{
