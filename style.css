@@ -1,6 +1,4 @@
 *{
-  padding: 0;
-  margin: 0;
   font-family: Helvetica;
 }
 
@@ -9,15 +7,13 @@
   font-weight: bold;
   color: khaki;
   background-image: url("image1.webp");
-  margin: 60px 2px 60px 2px;
-  padding: 5px;
+  text-align: center;
 }
 
 h2{
   font-size: 32px;
   font-weight: bold;
   color: white;
-  margin: 10px 2px;
 }
 
 #brushes{
@@ -32,16 +28,7 @@ h2{
   background-color: skyblue;
 }
 
-figure{
-  margin: 10px 0px;
-}
-
-figcaption{
-  margin: 10px 0px;
-}
-
-strong{
+span{
   font-weight: bold;
   color: blue;
-  font-family: Helvetica;
 }
