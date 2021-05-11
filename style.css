@@ -1,13 +1,11 @@
 *{
-  margin: 0px;
-  padding: 0px;
   font-family: Helvetica;
 }
 
 #title{
   font-size: 100px;
   font-weight: bold;
-  color: red;
+  color: khaki;
   background-image: url("image1.webp");
   text-align: center;
 }
